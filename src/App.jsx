@@ -1,4 +1,4 @@
-import { ColorButton } from "./componants/ColorButton"
+import { ColorButton } from "./componants/ColorButton.jsx";
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className="container">
+      <div className="body">
         <h1>Random background color</h1>
         <ColorButton/>
       </div>
