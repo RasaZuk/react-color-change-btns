@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>Random color</h1>
+        <h1>Random background color</h1>
         <ColorButton/>
       </div>
       
