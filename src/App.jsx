@@ -10,10 +10,7 @@ function App() {
         <h1>Random color</h1>
         <ColorButton/>
       </div>
-      <div className="container">
-        <h1>Color code</h1>
-        <p>kodas</p>
-      </div>
+      
     </>
   )
 }
