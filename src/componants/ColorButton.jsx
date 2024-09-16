@@ -6,11 +6,10 @@ export function ColorButton() {
   
     return (
         <>
-        <div >
+        <div>
+            <h1>Random background color</h1>
             <Buttons />
         </div>
-
         </>
-        
     );
 }
