@@ -1,13 +1,11 @@
-import { ColorButton } from "./componants/ColorButton.jsx";
-
-
+import { Buttons } from "./componants/Buttons.jsx";
 
 function App() {
   
   return (
     <>
       <div className="container">
-        <ColorButton/>
+        <Buttons/>
       </div>
     </>
   );
